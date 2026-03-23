@@ -27,4 +27,4 @@ A minimalist Kanban board built with React and Tailwind CSS. Features smooth dra
 
 ## Preview
 
-Comming soon... Meanwhile
+Comming soon... 
