@@ -1,6 +1,7 @@
 # Kanban MiniApp
 
-A minimalist Kanban board built with React and Tailwind CSS. Features smooth drag-and-drop interactions, dark mode, and reusable component architecture.
+A minimalist Kanban board built with React and Tailwind CSS. Features smooth drag-and-drop interactions, dark mode, and reusable component architecture. Try the live demo at [kanban-miniapp](https://kanban-mini-app.netlify.app/)
+
 
 ## Technologies
 
@@ -26,4 +27,4 @@ A minimalist Kanban board built with React and Tailwind CSS. Features smooth dra
 
 ## Preview
 
-Comming soon...
+Comming soon... Meanwhile
